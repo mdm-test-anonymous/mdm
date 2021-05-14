@@ -1,6 +1,8 @@
 Welcome to mdm's documentation!
 ======================================
 
+Answers and code are in the notebook folder of the package
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents
